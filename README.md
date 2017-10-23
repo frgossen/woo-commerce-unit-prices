@@ -1,4 +1,4 @@
-# WooCommerce Unit Prices
+# WooCommerce Plugin: Unit Prices
 WooCommerce Plugin for Unit Prices. Find a live example at http://loreley.shop/ and consider buying some wine. 
 
 ## Supported Units
@@ -10,6 +10,7 @@ The plugin allows to state unit prices per one of the following units:
 - Gram
 - 100 Grams
 - Kilogram
+- Others can easily be added 
 
 # Multilingual
 This WooCommerce plugin is multilingual and supports the following languages:
